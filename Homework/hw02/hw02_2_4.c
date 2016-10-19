@@ -53,9 +53,15 @@ int main(int argc, char **argv)
 
 	close(newfd1);
 
+	int lc = 0;
 	while ((c = getchar()) != EOF) {
 		putchar(c);
+		
+		if (c == '\n')
+			lc++;
 	}
+
+	fprintf(stderr, "%d lines copied\n", lc);
 
 	close(0);
 	close(1);
