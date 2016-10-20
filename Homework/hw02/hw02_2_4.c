@@ -63,8 +63,8 @@ int main(int argc, char **argv)
 
 	fprintf(stderr, "%d lines copied\n", lc);
 
-	close(0);
-	close(1);
+//	close(0);
+//	close(1);
 	exit(0);
 }
 
