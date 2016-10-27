@@ -1,0 +1,11 @@
+   text	   data	    bss	    dec	    hex	filename
+   1099	    544	 200032	 201675	  313cb	hw03_6a
+
+   text	   data	    bss	    dec	    hex	filename
+   1099	 200560	      8	 201667	  313c3	hw03_6b
+   
+   text	   data	    bss	    dec	    hex	filename
+   1256	    552	      8	   1816	    718	hw03_6c
+   
+   text	   data	    bss	    dec	    hex	filename
+   1361	    560	      8	   1929	    789	hw03_6d

@@ -1,0 +1,5 @@
+Program name = ./hw03_3, pid = 3273
+UID        PID  PPID  C STIME TTY          TIME CMD
+jaeyangp  2283  2277  0 20:49 pts/17   00:00:00 bash
+jaeyangp  3273  2283  0 21:13 pts/17   00:00:00 /bin/ps -f
+
